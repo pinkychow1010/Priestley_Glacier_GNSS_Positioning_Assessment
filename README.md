@@ -19,7 +19,7 @@ The data collection was conducted in 2018 at Priestley Glacier, Antarctica, wher
 Positioning results are obtained from GNSS processing automation online and locally. Accuracies of the software are assessed from fast Fourier transform (FFT) of the signals and comparison to bootstrapping results. Ocean tidal signals are extracted from the positioning results using SSA for comparison.
 
 ## **Accuracy**
-Results indicates that CSRS-PPP provides optimal performance in both accuracy and preservation of tidal patterns. The accuracy table is shown below:
+Results indicates that CSRS-PPP provides optimal performance in both accuracy and preservation of tidal patterns. The accuracy table is shown below with units in meters:
 
 ![accuracy](https://github.com/pinkychow1010/GNSS_Project/blob/main/graphicsOutput/positioningAccuracy.JPG)
 
