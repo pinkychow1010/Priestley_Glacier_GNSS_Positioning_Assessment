@@ -13,6 +13,8 @@ Successfully Assessed Software:
 # **Study Site**
 The data collection was conducted in 2018 at Priestley Glacier, Antarctica, where five stations are set up, including one base station. GNSS receivers Trimble NetR9 with antenna Zephyr 3 are used.
 
+![site](https://github.com/pinkychow1010/GNSS_Project/blob/main/graphicsOutput/overviewMap.JPG)
+
 ## **Methods**
 Positioning results are obtained from GNSS processing automation online and locally. Accuracies of the software are assessed from fast Fourier transform (FFT) of the signals and comparison to bootstrapping results. Ocean tidal signals are extracted from the positioning results using SSA for comparison.
 
